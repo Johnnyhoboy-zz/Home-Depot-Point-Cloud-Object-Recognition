@@ -1,0 +1,379 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		002106642202305200C3AD09 /* XboxInfo.sks in Resources */ = {isa = PBXBuildFile; fileRef = 002106632202305200C3AD09 /* XboxInfo.sks */; };
+		0057CBA6220250A2007F77DA /* FilamentInfo.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0057CBA5220250A2007F77DA /* FilamentInfo.sks */; };
+		005BCCE722247F2900B3C94A /* slap.wav in Resources */ = {isa = PBXBuildFile; fileRef = 005BCCE522247F0A00B3C94A /* slap.wav */; };
+		005BCCE822247F2D00B3C94A /* slap.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 00AD640E221B25ED00E27CCE /* slap.mp4 */; };
+		00AD6411221B288900E27CCE /* pika.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00AD6410221B288900E27CCE /* pika.wav */; };
+		00B59C5C220B90DE00CCC034 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00B59C5A220B90DE00CCC034 /* Main.storyboard */; };
+		00B59C5E220CE2BC00CCC034 /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00B59C5D220CE2BC00CCC034 /* ding.wav */; };
+		00B59C62220E099100CCC034 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00B59C61220E099100CCC034 /* LaunchScreen.storyboard */; };
+		00BB518B21FBB3FB003A8E89 /* GlueInfo.sks in Resources */ = {isa = PBXBuildFile; fileRef = 00BB518A21FBB3FB003A8E89 /* GlueInfo.sks */; };
+		00D76DC521FBB57200338444 /* DefaultInfo.sks in Resources */ = {isa = PBXBuildFile; fileRef = 00D76DC421FBB57200338444 /* DefaultInfo.sks */; };
+		00E3F12421FBA5A40002C79B /* CupInfo.sks in Resources */ = {isa = PBXBuildFile; fileRef = 00E3F12321FBA5A40002C79B /* CupInfo.sks */; };
+		00E3F12621FBA5F30002C79B /* DrillInfo.sks in Resources */ = {isa = PBXBuildFile; fileRef = 00E3F12521FBA5F30002C79B /* DrillInfo.sks */; };
+		00FE5A74221729840039FD44 /* orangeworks.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0008442E2216194F0046E2DF /* orangeworks.mp4 */; };
+		5215968720D27461006E670B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5215968620D27461006E670B /* AppDelegate.swift */; };
+		5215968920D27461006E670B /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 5215968820D27461006E670B /* art.scnassets */; };
+		5215968B20D27461006E670B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5215968A20D27461006E670B /* ViewController.swift */; };
+		5215969020D27462006E670B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5215968F20D27462006E670B /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0008442E2216194F0046E2DF /* orangeworks.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = orangeworks.mp4; sourceTree = "<group>"; };
+		002106632202305200C3AD09 /* XboxInfo.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = XboxInfo.sks; sourceTree = "<group>"; };
+		0057CBA5220250A2007F77DA /* FilamentInfo.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FilamentInfo.sks; sourceTree = "<group>"; };
+		005BCCE522247F0A00B3C94A /* slap.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = slap.wav; path = ../../../Downloads/slap.wav; sourceTree = "<group>"; };
+		00AD640E221B25ED00E27CCE /* slap.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = slap.mp4; sourceTree = "<group>"; };
+		00AD6410221B288900E27CCE /* pika.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = pika.wav; sourceTree = "<group>"; };
+		00B59C5B220B90DE00CCC034 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "../../TriassicLoupe/TriassicLoupe - Final/TriassicLoupe/Base.lproj/Main.storyboard"; sourceTree = "<group>"; };
+		00B59C5D220CE2BC00CCC034 /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
+		00B59C61220E099100CCC034 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "../../TriassicLoupe/TriassicLoupe - Final/TriassicLoupe/LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		00BB518A21FBB3FB003A8E89 /* GlueInfo.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GlueInfo.sks; sourceTree = "<group>"; };
+		00D76DC421FBB57200338444 /* DefaultInfo.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = DefaultInfo.sks; sourceTree = "<group>"; };
+		00E3F12321FBA5A40002C79B /* CupInfo.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = CupInfo.sks; sourceTree = "<group>"; };
+		00E3F12521FBA5F30002C79B /* DrillInfo.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = DrillInfo.sks; sourceTree = "<group>"; };
+		5215968320D27461006E670B /* HomeDepotAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeDepotAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5215968620D27461006E670B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5215968820D27461006E670B /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		5215968A20D27461006E670B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5215968F20D27462006E670B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5215969420D27462006E670B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5215968020D27461006E670B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5215967A20D27461006E670B = {
+			isa = PBXGroup;
+			children = (
+				5215968520D27461006E670B /* HomeDepotAR */,
+				5215968420D27461006E670B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5215968420D27461006E670B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5215968320D27461006E670B /* HomeDepotAR.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5215968520D27461006E670B /* HomeDepotAR */ = {
+			isa = PBXGroup;
+			children = (
+				5215968620D27461006E670B /* AppDelegate.swift */,
+				5215968820D27461006E670B /* art.scnassets */,
+				5215968A20D27461006E670B /* ViewController.swift */,
+				0008442E2216194F0046E2DF /* orangeworks.mp4 */,
+				00AD640E221B25ED00E27CCE /* slap.mp4 */,
+				00E3F12521FBA5F30002C79B /* DrillInfo.sks */,
+				002106632202305200C3AD09 /* XboxInfo.sks */,
+				00E3F12321FBA5A40002C79B /* CupInfo.sks */,
+				00BB518A21FBB3FB003A8E89 /* GlueInfo.sks */,
+				0057CBA5220250A2007F77DA /* FilamentInfo.sks */,
+				00D76DC421FBB57200338444 /* DefaultInfo.sks */,
+				00B59C5D220CE2BC00CCC034 /* ding.wav */,
+				00AD6410221B288900E27CCE /* pika.wav */,
+				005BCCE522247F0A00B3C94A /* slap.wav */,
+				5215968F20D27462006E670B /* Assets.xcassets */,
+				00B59C5A220B90DE00CCC034 /* Main.storyboard */,
+				00B59C61220E099100CCC034 /* LaunchScreen.storyboard */,
+				5215969420D27462006E670B /* Info.plist */,
+			);
+			path = HomeDepotAR;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5215968220D27461006E670B /* HomeDepotAR */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5215969720D27462006E670B /* Build configuration list for PBXNativeTarget "HomeDepotAR" */;
+			buildPhases = (
+				5215967F20D27461006E670B /* Sources */,
+				5215968020D27461006E670B /* Frameworks */,
+				5215968120D27461006E670B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HomeDepotAR;
+			productName = FlowerShop;
+			productReference = 5215968320D27461006E670B /* HomeDepotAR.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5215967B20D27461006E670B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1000;
+				LastUpgradeCheck = 1000;
+				ORGANIZATIONNAME = "";
+				TargetAttributes = {
+					5215968220D27461006E670B = {
+						CreatedOnToolsVersion = 10.0;
+					};
+				};
+			};
+			buildConfigurationList = 5215967E20D27461006E670B /* Build configuration list for PBXProject "HomeDepotAR" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5215967A20D27461006E670B;
+			productRefGroup = 5215968420D27461006E670B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5215968220D27461006E670B /* HomeDepotAR */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5215968120D27461006E670B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				005BCCE822247F2D00B3C94A /* slap.mp4 in Resources */,
+				005BCCE722247F2900B3C94A /* slap.wav in Resources */,
+				00FE5A74221729840039FD44 /* orangeworks.mp4 in Resources */,
+				002106642202305200C3AD09 /* XboxInfo.sks in Resources */,
+				00E3F12421FBA5A40002C79B /* CupInfo.sks in Resources */,
+				00B59C5C220B90DE00CCC034 /* Main.storyboard in Resources */,
+				5215968920D27461006E670B /* art.scnassets in Resources */,
+				00B59C5E220CE2BC00CCC034 /* ding.wav in Resources */,
+				00E3F12621FBA5F30002C79B /* DrillInfo.sks in Resources */,
+				0057CBA6220250A2007F77DA /* FilamentInfo.sks in Resources */,
+				00AD6411221B288900E27CCE /* pika.wav in Resources */,
+				5215969020D27462006E670B /* Assets.xcassets in Resources */,
+				00BB518B21FBB3FB003A8E89 /* GlueInfo.sks in Resources */,
+				00B59C62220E099100CCC034 /* LaunchScreen.storyboard in Resources */,
+				00D76DC521FBB57200338444 /* DefaultInfo.sks in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5215967F20D27461006E670B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5215968B20D27461006E670B /* ViewController.swift in Sources */,
+				5215968720D27461006E670B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		00B59C5A220B90DE00CCC034 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				00B59C5B220B90DE00CCC034 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5215969520D27462006E670B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5215969620D27462006E670B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5215969820D27462006E670B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = K69U2KTDD3;
+				INFOPLIST_FILE = "$(SRCROOT)/HomeDepotAR/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "john-ho";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5215969920D27462006E670B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = K69U2KTDD3;
+				INFOPLIST_FILE = "$(SRCROOT)/HomeDepotAR/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "john-ho";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5215967E20D27461006E670B /* Build configuration list for PBXProject "HomeDepotAR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5215969520D27462006E670B /* Debug */,
+				5215969620D27462006E670B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5215969720D27462006E670B /* Build configuration list for PBXNativeTarget "HomeDepotAR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5215969820D27462006E670B /* Debug */,
+				5215969920D27462006E670B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5215967B20D27461006E670B /* Project object */;
+}

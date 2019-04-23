@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "Esun 3D Filament.arobject"
+    },
+    {
+      "filename" : "Ridgid Drill.arobject"
+    },
+    {
+      "filename" : "THD Mug.arobject"
+    },
+    {
+      "filename" : "Wood Glue.arobject"
+    },
+    {
+      "filename" : "Xbox One Controller.arobject"
+    }
+  ]
+}
