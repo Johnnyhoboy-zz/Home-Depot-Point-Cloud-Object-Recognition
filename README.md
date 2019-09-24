@@ -2,5 +2,8 @@
 Spring 2019 Intern project at Home Depot OrangeWorks Innovation Office in Atlanta, GA. <br> <br>
 Developed with with ARKit 2.0, Swift 5, XCode 10.2, and tested on iPhone X running iOS 12+.
 
-See the official project description and demo at
+See the official project description and demo at: <br>
+https://johnnyhoboy.github.io/portfolio-ar1.html
+
+Alternative link for THD domain: <br>
 https://pages.github.homedepot.com/orangeworks/projects/point-cloud-object-recognition/
